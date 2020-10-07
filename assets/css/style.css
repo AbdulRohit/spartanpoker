@@ -278,7 +278,7 @@ footer p {
     -webkit-box-shadow: 0 0 5px 2px #fff;
     -moz-box-shadow: 0 0 5px 2px #fff;
     box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.2);
-    height: 226rem;
+    height: 186rem;
 }
 
 .related-links h3 {
@@ -298,21 +298,22 @@ footer p {
 .ad1 {
     background-color: #8e8e8e;
     height: 380px;
-    padding: 129px;
 }
 
-.ad1 p {
-    color: #fff;
-    font-size: 30px !important;
+.ad1 img {
+    width: 105%;
+    height: 100%;
 }
 
 .ad2 {
     background-color: #8e8e8e;
-    height: 70px;
-    padding: 129px;
+    height: 200px;
 }
 
-.ad2 p {
-    color: #fff;
-    font-size: 30px !important;
+.ad2 img {
+    width: 105%;
+    height: 100%;
 }
+
+
+
